@@ -1,0 +1,3 @@
+git deploy process
+1) Add ignore file
+2) 
