@@ -11,8 +11,13 @@ Mevcut klasöre git versiyonlama sistemini ekler. ( Yani ben bu klasörü versiy
 3) git add .
 4) git commit -m "commit message"
 5) git remote add origin http://......
+6) git push origin main
 
 
+
+Branch Commands
+"git branch dev" komutuyla localde bir branch açıyorum
+"git checkout" ile branch değiştiriyorum. Örneğin git checkout dev
 
 
 
